@@ -10,8 +10,7 @@ This report contain all the Total Calls, Qualified Calls, Appointments, Conversi
 <img width="1312" height="735" alt="image" src="https://github.com/user-attachments/assets/67c3fd70-0b01-4415-a4f8-514c5479b620" />
 <img width="1327" height="733" alt="image" src="https://github.com/user-attachments/assets/341b46ab-b61c-47ac-b62e-ce37a51b8128" />
 <img width="1323" height="735" alt="image" src="https://github.com/user-attachments/assets/f5cacb53-dad9-4598-a6f1-4562204baa71" />
-<img width="1313" height="730" alt="image" src="https://github.com/user-attachments/assets/742102cc-ce0e-45da-9666-ea65740ab6be" />
-
+<img width="1323" height="735" alt="image" src="https://github.com/user-attachments/assets/2834c398-ac9e-41ac-8617-52f441ea2c9b" />
 
 
 
